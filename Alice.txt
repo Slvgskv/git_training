@@ -3,3 +3,4 @@ Let's add a line
 Another new line for merge test
 What she is to with Patrick
 Change also
+I have just done something that you need.
