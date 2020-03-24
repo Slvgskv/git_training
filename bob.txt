@@ -1,2 +1,3 @@
 Bob is american
 Hi! I'm Bob. I'm new here.
+A new line for merge test.
